@@ -1,0 +1,4 @@
+sudo apt-get install chromium-chromedriver
+pip3 install BeautifulSoup4
+pip3 install requests
+pip3 install selenium
